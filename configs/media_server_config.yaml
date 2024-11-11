@@ -1,0 +1,6 @@
+eks_cluster_name: "media-server-cluster"
+namespace: "media-server-namespace"
+s3_bucket: "media-bucket"
+api_key: "media-server-api-key"
+video_encryption_key: "encryption-key"
+region: "me-south-1"

@@ -1,0 +1,6 @@
+eks_cluster_name: "backend-cluster"
+namespace: "backend-namespace"
+db_host: "clickhouse-db-host"
+db_port: 9000
+db_user: "dbuser"
+db_password: "dbpassword"

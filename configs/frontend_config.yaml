@@ -1,0 +1,5 @@
+s3_bucket: "my-frontend-assets-bucket"
+cloudfront_distribution_id: "E12345678ABCDEF"
+region: "me-south-1"
+api_base_url: "https://api.example.com"
+environment: "production"
